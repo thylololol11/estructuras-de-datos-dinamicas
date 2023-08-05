@@ -1,0 +1,72 @@
+using System;
+
+public class MatrixMultipl
+{
+    public static int[,] MultiplyMatrices(int[,] m1, int[,] m2)
+    {
+        // Verificar si las matrices pueden ser multiplicadas
+        if (m1.GetLength(1) != m2.GetLength(0))
+        {
+            throw new ArgumentException("Las matrices no se pueden multiplicar.");
+        }
+
+        int rowsM1 = m1.GetLength(0);
+        int colM1 = m1.GetLength(1);
+        int colM2 = m2.GetLength(1);
+
+        int[,] m3 = new int[rowsM1, colM2];
+
+        // Multiplicación de las 2 matrices
+        void Multiplicacion(int i, int j)
+        {
+            if (j == colM2)
+            {
+                return;
+            }
+
+            m3[i, j] = 0;
+            for (int k = 0; k < colM1; k++)
+            {
+                m3[i, j] += m1[i, k] * m2[k, j];
+            }
+
+            Multiplicacion(i, j + 1);
+            if (i + 1 < rowsM1)
+            {
+                Multiplicacion(i + 1, j);
+            }
+        }
+
+        Multiplicacion(0, 0);
+
+        return m3;
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        int[,] m1 = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+        int[,] m2 = { { 1, 2, 3, 4 }, { 4, 5, 6, 4 }, { 7, 8, 9, 4 } };
+
+        try
+        {
+            int[,] m3 = MatrixMultipl.MultiplyMatrices(m1, m2);
+
+            // Mostrar el resultado
+            for (int i = 0; i < m3.GetLength(0); i++)
+            {
+                for (int j = 0; j < m3.GetLength(1); j++)
+                {
+                    Console.Write(m3[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+        catch (ArgumentException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+}
