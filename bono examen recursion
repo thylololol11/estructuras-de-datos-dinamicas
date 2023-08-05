@@ -1,6 +1,6 @@
 using System;
 
-public class MatrixMultipl
+public class MultiplicacionMatrix
 {
     public static int[,] MultiplyMatrices(int[,] m1, int[,] m2)
     {
@@ -52,7 +52,7 @@ public class Program
 
         try
         {
-            int[,] m3 = MatrixMultipl.MultiplyMatrices(m1, m2);
+            int[,] m3 = MultiplicacionMatrix.MultiplyMatrices(m1, m2);
 
             // Mostrar el resultado
             for (int i = 0; i < m3.GetLength(0); i++)
