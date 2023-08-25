@@ -1,0 +1,14 @@
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\TallerEstructuraDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\TallerEstructuraDatos.AssemblyInfoInputs.cache
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\TallerEstructuraDatos.AssemblyInfo.cs
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\TallerEstructuraDatos.csproj.CoreCompileInputs.cache
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\bin\Debug\net6.0\TallerEstructuraDatos.exe
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\bin\Debug\net6.0\TallerEstructuraDatos.deps.json
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\bin\Debug\net6.0\TallerEstructuraDatos.runtimeconfig.json
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\bin\Debug\net6.0\TallerEstructuraDatos.dll
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\bin\Debug\net6.0\TallerEstructuraDatos.pdb
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\TallerEstructuraDatos.dll
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\refint\TallerEstructuraDatos.dll
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\TallerEstructuraDatos.pdb
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\TallerEstructuraDatos.genruntimeconfig.cache
+C:\Users\catal\source\repos\TallerEstructuraDatos\TallerEstructuraDatos\obj\Debug\net6.0\ref\TallerEstructuraDatos.dll
