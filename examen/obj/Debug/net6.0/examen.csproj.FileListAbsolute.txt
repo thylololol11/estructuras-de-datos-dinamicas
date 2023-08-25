@@ -1,0 +1,14 @@
+C:\Users\catal\source\repos\examen\examen\bin\Debug\net6.0\examen.exe
+C:\Users\catal\source\repos\examen\examen\bin\Debug\net6.0\examen.deps.json
+C:\Users\catal\source\repos\examen\examen\bin\Debug\net6.0\examen.runtimeconfig.json
+C:\Users\catal\source\repos\examen\examen\bin\Debug\net6.0\examen.dll
+C:\Users\catal\source\repos\examen\examen\bin\Debug\net6.0\examen.pdb
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\examen.AssemblyInfoInputs.cache
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\examen.AssemblyInfo.cs
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\examen.dll
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\refint\examen.dll
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\examen.pdb
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\examen.genruntimeconfig.cache
+C:\Users\catal\source\repos\examen\examen\obj\Debug\net6.0\ref\examen.dll
